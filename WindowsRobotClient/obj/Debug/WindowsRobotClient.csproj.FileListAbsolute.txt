@@ -8,3 +8,4 @@ E:\Project\EvolutionIslandServer\WindowsRobotClient\bin\Debug\WindowsRobotClient
 E:\Project\EvolutionIslandServer\WindowsRobotClient\bin\Debug\WindowsRobotClient.pdb
 E:\Project\EvolutionIslandServer\WindowsRobotClient\obj\Debug\WindowsRobotClient.exe
 E:\Project\EvolutionIslandServer\WindowsRobotClient\obj\Debug\WindowsRobotClient.pdb
+E:\Project\EvolutionIslandServer\WindowsRobotClient\obj\Debug\WindowsRobotClient.csprojResolveAssemblyReference.cache

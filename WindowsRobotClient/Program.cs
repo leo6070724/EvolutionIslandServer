@@ -15,8 +15,8 @@ namespace WindowsRobotClient
         static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
-            args = new string[] { "127.0.0.1" };
-            IPAddress ipAddress = null;
+
+            IPAddress ipAddress = Dns.GetHostAddresses("http://server-eiserver.7e14.starter-us-west-2.openshiftapps.com")[0];
             if ((args != null) && (args.Length > 0))
             {
                 if (!IPAddress.TryParse(args[0], out ipAddress))
@@ -26,7 +26,7 @@ namespace WindowsRobotClient
             }
             mSocket = new Socket(SocketType.Stream, ProtocolType.Tcp);
 
-            IPEndPoint ipEndPoint = new IPEndPoint(ipAddress, 8001);
+            IPEndPoint ipEndPoint = new IPEndPoint(ipAddress, 5000);
             mSocket.Connect(ipEndPoint);
             Task.Run(() =>
             {
