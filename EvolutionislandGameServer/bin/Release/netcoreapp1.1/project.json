@@ -1,8 +1,10 @@
 {
   "name": "EvolutionislandGameServer",
   "language": "en-US",
+  "buildOptions": {
+    "emitEntryPoint": true
+  },
   "frameworks": {
-    "netcoreapp1.1": {},
-    "net451": {}
+    "netcoreapp1.1": {}
   }
 }
