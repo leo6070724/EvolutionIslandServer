@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\Evolutionisland\\Evolutionisland\\Evolutionisland\\EvolutionislandGameServer\\EvolutionislandGameServer.csproj",
+      "projectUniqueName": "E:\\Project\\EvolutionIslandServer\\EvolutionislandGameServer\\EvolutionislandGameServer.csproj",
       "projectName": "EvolutionislandGameServer",
-      "projectPath": "E:\\Project\\Evolutionisland\\Evolutionisland\\Evolutionisland\\EvolutionislandGameServer\\EvolutionislandGameServer.csproj",
-      "outputPath": "E:\\Project\\Evolutionisland\\Evolutionisland\\Evolutionisland\\EvolutionislandGameServer\\obj\\",
+      "projectPath": "E:\\Project\\EvolutionIslandServer\\EvolutionislandGameServer\\EvolutionislandGameServer.csproj",
+      "outputPath": "E:\\Project\\EvolutionIslandServer\\EvolutionislandGameServer\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

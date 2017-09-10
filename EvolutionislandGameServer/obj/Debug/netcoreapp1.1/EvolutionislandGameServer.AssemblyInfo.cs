@@ -19,7 +19,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyProductAttribute("EvolutionislandGameServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvolutionislandGameServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Resources.NeutralResourcesLanguageAttribute("ch-TW")]
+[assembly: System.Resources.NeutralResourcesLanguageAttribute("en-US")]
 
 // 由 MSBuild WriteCodeFragment 類別產生。
 

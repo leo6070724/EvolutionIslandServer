@@ -2,3 +2,8 @@ E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandCommon
 E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandCommon\bin\Debug\EvolutionislandCommon.pdb
 E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandCommon\obj\Debug\EvolutionislandCommon.dll
 E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandCommon\obj\Debug\EvolutionislandCommon.pdb
+E:\Project\EvolutionIslandServer\EvolutionislandCommon\bin\Debug\EvolutionislandCommon.dll
+E:\Project\EvolutionIslandServer\EvolutionislandCommon\bin\Debug\EvolutionislandCommon.pdb
+E:\Project\EvolutionIslandServer\EvolutionislandCommon\obj\Debug\EvolutionislandCommon.csprojResolveAssemblyReference.cache
+E:\Project\EvolutionIslandServer\EvolutionislandCommon\obj\Debug\EvolutionislandCommon.dll
+E:\Project\EvolutionIslandServer\EvolutionislandCommon\obj\Debug\EvolutionislandCommon.pdb

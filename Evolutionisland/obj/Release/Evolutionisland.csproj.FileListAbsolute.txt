@@ -8,3 +8,13 @@ E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\Evolutionisland\obj\R
 E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\Evolutionisland\obj\Release\Evolutionisland.pdb
 E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\Evolutionisland\bin\Release\Newtonsoft.Json.dll
 E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\Evolutionisland\bin\Release\Newtonsoft.Json.xml
+E:\Project\EvolutionIslandServer\Evolutionisland\bin\Release\Evolutionisland.exe.config
+E:\Project\EvolutionIslandServer\Evolutionisland\bin\Release\Evolutionisland.exe
+E:\Project\EvolutionIslandServer\Evolutionisland\bin\Release\Evolutionisland.pdb
+E:\Project\EvolutionIslandServer\Evolutionisland\bin\Release\EvolutionislandCommonLibrary.dll
+E:\Project\EvolutionIslandServer\Evolutionisland\bin\Release\Newtonsoft.Json.dll
+E:\Project\EvolutionIslandServer\Evolutionisland\bin\Release\EvolutionislandCommonLibrary.pdb
+E:\Project\EvolutionIslandServer\Evolutionisland\bin\Release\Newtonsoft.Json.xml
+E:\Project\EvolutionIslandServer\Evolutionisland\obj\Release\Evolutionisland.csprojResolveAssemblyReference.cache
+E:\Project\EvolutionIslandServer\Evolutionisland\obj\Release\Evolutionisland.exe
+E:\Project\EvolutionIslandServer\Evolutionisland\obj\Release\Evolutionisland.pdb

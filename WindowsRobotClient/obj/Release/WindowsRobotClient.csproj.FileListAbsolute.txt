@@ -4,3 +4,9 @@ E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\WindowsRobotClient\bi
 E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\WindowsRobotClient\obj\Release\WindowsRobotClient.exe
 E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\WindowsRobotClient\obj\Release\WindowsRobotClient.pdb
 E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\WindowsRobotClient\obj\Release\WindowsRobotClient.csprojResolveAssemblyReference.cache
+E:\Project\EvolutionIslandServer\WindowsRobotClient\bin\Release\WindowsRobotClient.exe.config
+E:\Project\EvolutionIslandServer\WindowsRobotClient\bin\Release\WindowsRobotClient.exe
+E:\Project\EvolutionIslandServer\WindowsRobotClient\bin\Release\WindowsRobotClient.pdb
+E:\Project\EvolutionIslandServer\WindowsRobotClient\obj\Release\WindowsRobotClient.csprojResolveAssemblyReference.cache
+E:\Project\EvolutionIslandServer\WindowsRobotClient\obj\Release\WindowsRobotClient.exe
+E:\Project\EvolutionIslandServer\WindowsRobotClient\obj\Release\WindowsRobotClient.pdb

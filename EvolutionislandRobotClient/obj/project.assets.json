@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\Evolutionisland\\Evolutionisland\\Evolutionisland\\EvolutionislandRobotClient\\EvolutionislandRobotClient.csproj",
+      "projectUniqueName": "E:\\Project\\EvolutionIslandServer\\EvolutionislandRobotClient\\EvolutionislandRobotClient.csproj",
       "projectName": "EvolutionislandRobotClient",
-      "projectPath": "E:\\Project\\Evolutionisland\\Evolutionisland\\Evolutionisland\\EvolutionislandRobotClient\\EvolutionislandRobotClient.csproj",
-      "outputPath": "E:\\Project\\Evolutionisland\\Evolutionisland\\Evolutionisland\\EvolutionislandRobotClient\\obj\\",
+      "projectPath": "E:\\Project\\EvolutionIslandServer\\EvolutionislandRobotClient\\EvolutionislandRobotClient.csproj",
+      "outputPath": "E:\\Project\\EvolutionIslandServer\\EvolutionislandRobotClient\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

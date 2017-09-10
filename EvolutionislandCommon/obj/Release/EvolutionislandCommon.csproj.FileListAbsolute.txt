@@ -3,3 +3,8 @@ E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandCommon
 E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandCommon\obj\Release\EvolutionislandCommon.dll
 E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandCommon\obj\Release\EvolutionislandCommon.pdb
 E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandCommon\obj\Release\EvolutionislandCommon.csprojResolveAssemblyReference.cache
+E:\Project\EvolutionIslandServer\EvolutionislandCommon\bin\Release\EvolutionislandCommon.dll
+E:\Project\EvolutionIslandServer\EvolutionislandCommon\bin\Release\EvolutionislandCommon.pdb
+E:\Project\EvolutionIslandServer\EvolutionislandCommon\obj\Release\EvolutionislandCommon.csprojResolveAssemblyReference.cache
+E:\Project\EvolutionIslandServer\EvolutionislandCommon\obj\Release\EvolutionislandCommon.dll
+E:\Project\EvolutionIslandServer\EvolutionislandCommon\obj\Release\EvolutionislandCommon.pdb
