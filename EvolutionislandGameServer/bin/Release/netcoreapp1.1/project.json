@@ -5,8 +5,7 @@
     "netcoreapp1.1": {},
     "net451": {}
   },
-  "dependencies": {
-    "Microsoft.NETCore.App": "1.1.2",
-    "Microsoft.CShap": "4.3.0"
+  "buildOptions": {
+    "emitEntryPoint": true
   }
 }
