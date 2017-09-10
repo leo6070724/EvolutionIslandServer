@@ -2,10 +2,6 @@
   "name": "EvolutionislandGameServer",
   "language": "en-US",
   "frameworks": {
-    "netcoreapp1.1": {},
-	"net451": {}
-  },
-  "dependencies": {
-    "Microsoft.NETCore.App": "1.1.2"
+    "netcoreapp1.1": {}
   }
 }
