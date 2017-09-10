@@ -4,8 +4,5 @@
   "frameworks": {
     "netcoreapp1.1": {},
     "net451": {}
-  },
-  "buildOptions": {
-    "emitEntryPoint": true
   }
 }
