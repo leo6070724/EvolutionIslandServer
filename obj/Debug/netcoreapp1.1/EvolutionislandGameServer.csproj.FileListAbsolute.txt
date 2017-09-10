@@ -1,9 +1,0 @@
-E:\Project\EvolutionIslandServer\bin\Debug\netcoreapp1.1\EvolutionislandGameServer.deps.json
-E:\Project\EvolutionIslandServer\bin\Debug\netcoreapp1.1\EvolutionislandGameServer.runtimeconfig.json
-E:\Project\EvolutionIslandServer\bin\Debug\netcoreapp1.1\EvolutionislandGameServer.runtimeconfig.dev.json
-E:\Project\EvolutionIslandServer\bin\Debug\netcoreapp1.1\EvolutionislandGameServer.dll
-E:\Project\EvolutionIslandServer\bin\Debug\netcoreapp1.1\EvolutionislandGameServer.pdb
-E:\Project\EvolutionIslandServer\obj\Debug\netcoreapp1.1\EvolutionislandGameServer.csprojResolveAssemblyReference.cache
-E:\Project\EvolutionIslandServer\obj\Debug\netcoreapp1.1\EvolutionislandGameServer.AssemblyInfo.cs
-E:\Project\EvolutionIslandServer\obj\Debug\netcoreapp1.1\EvolutionislandGameServer.dll
-E:\Project\EvolutionIslandServer\obj\Debug\netcoreapp1.1\EvolutionislandGameServer.pdb
