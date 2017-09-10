@@ -12,7 +12,6 @@ E:\Project\EvolutionIslandServer\EvolutionislandRobotClient\bin\Release\netcorea
 E:\Project\EvolutionIslandServer\EvolutionislandRobotClient\bin\Release\netcoreapp1.1\EvolutionislandRobotClient.runtimeconfig.dev.json
 E:\Project\EvolutionIslandServer\EvolutionislandRobotClient\bin\Release\netcoreapp1.1\EvolutionislandRobotClient.dll
 E:\Project\EvolutionIslandServer\EvolutionislandRobotClient\bin\Release\netcoreapp1.1\EvolutionislandRobotClient.pdb
-E:\Project\EvolutionIslandServer\EvolutionislandRobotClient\obj\Release\netcoreapp1.1\EvolutionislandRobotClient.csprojResolveAssemblyReference.cache
 E:\Project\EvolutionIslandServer\EvolutionislandRobotClient\obj\Release\netcoreapp1.1\EvolutionislandRobotClient.AssemblyInfo.cs
 E:\Project\EvolutionIslandServer\EvolutionislandRobotClient\obj\Release\netcoreapp1.1\EvolutionislandRobotClient.dll
 E:\Project\EvolutionIslandServer\EvolutionislandRobotClient\obj\Release\netcoreapp1.1\EvolutionislandRobotClient.pdb

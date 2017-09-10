@@ -9,6 +9,5 @@ E:\Project\EvolutionIslandServer\EvolutionislandCommonLibrary\bin\Release\Evolut
 E:\Project\EvolutionIslandServer\EvolutionislandCommonLibrary\bin\Release\EvolutionislandCommonLibrary.pdb
 E:\Project\EvolutionIslandServer\EvolutionislandCommonLibrary\bin\Release\Newtonsoft.Json.dll
 E:\Project\EvolutionIslandServer\EvolutionislandCommonLibrary\bin\Release\Newtonsoft.Json.xml
-E:\Project\EvolutionIslandServer\EvolutionislandCommonLibrary\obj\Release\EvolutionislandCommonLibrary.csprojResolveAssemblyReference.cache
 E:\Project\EvolutionIslandServer\EvolutionislandCommonLibrary\obj\Release\EvolutionislandCommonLibrary.dll
 E:\Project\EvolutionIslandServer\EvolutionislandCommonLibrary\obj\Release\EvolutionislandCommonLibrary.pdb

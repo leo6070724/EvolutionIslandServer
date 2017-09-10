@@ -12,7 +12,6 @@ E:\Project\EvolutionIslandServer\EvolutionislandGameServer\bin\Release\netcoreap
 E:\Project\EvolutionIslandServer\EvolutionislandGameServer\bin\Release\netcoreapp1.1\EvolutionislandGameServer.runtimeconfig.dev.json
 E:\Project\EvolutionIslandServer\EvolutionislandGameServer\bin\Release\netcoreapp1.1\EvolutionislandGameServer.dll
 E:\Project\EvolutionIslandServer\EvolutionislandGameServer\bin\Release\netcoreapp1.1\EvolutionislandGameServer.pdb
-E:\Project\EvolutionIslandServer\EvolutionislandGameServer\obj\Release\netcoreapp1.1\EvolutionislandGameServer.csprojResolveAssemblyReference.cache
 E:\Project\EvolutionIslandServer\EvolutionislandGameServer\obj\Release\netcoreapp1.1\EvolutionislandGameServer.AssemblyInfo.cs
 E:\Project\EvolutionIslandServer\EvolutionislandGameServer\obj\Release\netcoreapp1.1\EvolutionislandGameServer.dll
 E:\Project\EvolutionIslandServer\EvolutionislandGameServer\obj\Release\netcoreapp1.1\EvolutionislandGameServer.pdb
