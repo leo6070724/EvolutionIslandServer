@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolutionislandCommonLibrary", "EvolutionislandCommonLibrary\EvolutionislandCommonLibrary.csproj", "{80BF9CA5-749A-450E-9DF8-72D1110DF1EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolutionisland", "Evolutionisland\Evolutionisland.csproj", "{B341B596-004F-4E2E-8B1D-F16B3E69C107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolutionislandCommon", "EvolutionislandCommon\EvolutionislandCommon.csproj", "{B6B5E222-B463-4524-8AF2-C4E3148F6C01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvolutionislandGameServer", "EvolutionislandGameServer\EvolutionislandGameServer.csproj", "{04CBF9EC-BDCB-497F-8421-7C9AFBAEBD82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolutionislandRobotClient", "EvolutionislandRobotClient\EvolutionislandRobotClient.csproj", "{ED43ED5B-9594-4E68-9FA2-9AA5CC761AFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsRobotClient", "WindowsRobotClient\WindowsRobotClient.csproj", "{82B166B4-E4E3-4B7F-BE83-F97CC993C950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80BF9CA5-749A-450E-9DF8-72D1110DF1EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BF9CA5-749A-450E-9DF8-72D1110DF1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BF9CA5-749A-450E-9DF8-72D1110DF1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BF9CA5-749A-450E-9DF8-72D1110DF1EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B341B596-004F-4E2E-8B1D-F16B3E69C107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B341B596-004F-4E2E-8B1D-F16B3E69C107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B341B596-004F-4E2E-8B1D-F16B3E69C107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B341B596-004F-4E2E-8B1D-F16B3E69C107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B5E222-B463-4524-8AF2-C4E3148F6C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B5E222-B463-4524-8AF2-C4E3148F6C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B5E222-B463-4524-8AF2-C4E3148F6C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B5E222-B463-4524-8AF2-C4E3148F6C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04CBF9EC-BDCB-497F-8421-7C9AFBAEBD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CBF9EC-BDCB-497F-8421-7C9AFBAEBD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CBF9EC-BDCB-497F-8421-7C9AFBAEBD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CBF9EC-BDCB-497F-8421-7C9AFBAEBD82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED43ED5B-9594-4E68-9FA2-9AA5CC761AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED43ED5B-9594-4E68-9FA2-9AA5CC761AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED43ED5B-9594-4E68-9FA2-9AA5CC761AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED43ED5B-9594-4E68-9FA2-9AA5CC761AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B166B4-E4E3-4B7F-BE83-F97CC993C950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B166B4-E4E3-4B7F-BE83-F97CC993C950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B166B4-E4E3-4B7F-BE83-F97CC993C950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B166B4-E4E3-4B7F-BE83-F97CC993C950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandRobotClient\bin\Debug\netcoreapp1.1\EvolutionislandRobotClient.deps.json
+E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandRobotClient\bin\Debug\netcoreapp1.1\EvolutionislandRobotClient.runtimeconfig.json
+E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandRobotClient\bin\Debug\netcoreapp1.1\EvolutionislandRobotClient.runtimeconfig.dev.json
+E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandRobotClient\bin\Debug\netcoreapp1.1\EvolutionislandRobotClient.dll
+E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandRobotClient\bin\Debug\netcoreapp1.1\EvolutionislandRobotClient.pdb
+E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandRobotClient\obj\Debug\netcoreapp1.1\EvolutionislandRobotClient.AssemblyInfo.cs
+E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandRobotClient\obj\Debug\netcoreapp1.1\EvolutionislandRobotClient.dll
+E:\Project\Evolutionisland\Evolutionisland\Evolutionisland\EvolutionislandRobotClient\obj\Debug\netcoreapp1.1\EvolutionislandRobotClient.pdb
