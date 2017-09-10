@@ -3,5 +3,11 @@
   "language": "en-US",
   "frameworks": {
     "netcoreapp1.1": {}
+  },
+  "tools": {
+    "Microsoft.EntityFrameworkCore.Tools.DotNet": "1.0.0-*"
+  },
+  "buildOptions": {
+    "emitEntryPoint": true
   }
 }
