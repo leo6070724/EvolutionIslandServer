@@ -5,7 +5,15 @@
   "name": "EvolutionislandGameServer",
   "language": "en-US",
   "frameworks": {
-    "netcoreapp1.1.2": {}
-	"net452": {}
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.2",
+          "autoReferenced": true
+        }
+      }
+    },
+    "net452": {}
   }
 }
