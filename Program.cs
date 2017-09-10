@@ -44,7 +44,7 @@ namespace EvolutionislandGameServer
                     ipAddress = null;
                 }
             }
-            StartHost(ipAddress, 8001);
+            StartHost(ipAddress, 8080);
         }
         static void StartHost(IPAddress ipAddress, int port)
         {
