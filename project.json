@@ -1,0 +1,7 @@
+{
+  "name": "EvolutionislandGameServer",
+  "language": "en-US",
+  "frameworks": {
+    "netcoreapp1.1": {}
+  }
+}
